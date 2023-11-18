@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-    vector<int> cardPoints{1,2,3,4,5,6,9};
+    vector<int> cardPoints{1,2,3,4,5,6};
         int n = cardPoints.size();
         int window = n-3;
         int left=0;
